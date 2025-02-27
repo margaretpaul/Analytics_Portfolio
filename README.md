@@ -14,6 +14,14 @@ Skills: Exploratory Data Analysis (EDA), Customer Segmentation, Machine Learning
 
 Technology: Python, Pandas, Numpy, Seaborn 
 
+[Analysis of Traffic Accidents in Boulder County](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Analysis_of_Traffic_Accidents_in_Boulder_County.ipynb)
+
+Goal: This project aimed to analyze traffic accident severity in Boulder County using data-driven insights from traffic and weather conditions to identify key risk factors contributing to severe accidents and provide policy recommendations to enhance road safety.
+
+Skills: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Correlation Analysis 
+
+Technology: Python, Pandas, Numpy, Seaborn 
+
 ## Education 
 
 2023 Graduate of the University of Colorado Boulder, Leeds School of Business with a B.S. in Business Administration with an emphasis in Marketing and a certificate in Operations and Information Management with a minor in Creative Technology and Design through the College of Engineering and Applied Science at the ATLAS Institute at CU Boulder.
