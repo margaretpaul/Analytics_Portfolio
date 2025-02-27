@@ -8,11 +8,9 @@ Marketing analyst with expertise in data science and digital advertising.
 
 [Customer Segmentation & Marketing Campaign Analysis](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Customer_Segmentation_%26_Marketing_Campaign_Analysis.ipynb)
 
-Goal: 
+Goal: The project aims to analyze customer segmentation and evaluate the effectiveness of marketing campaigns to derive actionable insights to improve targeted marketing strategies.
 
-Description: 
-
-Skills: 
+Skills: Exploratory Data Analysis (EDA), Customer Segmentation, Machine Learning, Clustering Techniques (e.g., K-Means, PCA), Data Visualization
 
 Technology: Python, Pandas, Numpy, Seaborn 
 
@@ -24,10 +22,10 @@ Technology: Python, Pandas, Numpy, Seaborn
 
 ## Certificates 
 
-Google Analytics 
+Google Analytics \
 Google Ads 
 
 ## Contacts 
 
-LinkedIn: https://www.linkedin.com/in/margaret-paul/
+LinkedIn: https://www.linkedin.com/in/margaret-paul/ \
 Email: margaret.paul@colorado.edu
