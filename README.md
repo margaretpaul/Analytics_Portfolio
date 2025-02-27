@@ -1,1 +1,35 @@
-# Analytics_Portfolio
+# Maggie Paul - Analytics Portfolio
+
+## About
+
+Marketing analyst with expertise in data science and digital advertising.
+
+## Portfolio Projects 
+
+Customer Segmentation & Marketing Campaign Analysis
+
+Code: 
+
+Goal: 
+
+Description: 
+
+Skills: 
+
+Technology: Python, Pandas, Numpy, Seaborn 
+
+## Education 
+
+2023 Graduate of the University of Colorado Boulder, Leeds School of Business with a B.S. in Business Administration with an emphasis in Marketing and a certificate in Operations and Information Management with a minor in Creative Technology and Design through the College of Engineering and Applied Science at the ATLAS Institute at CU Boulder.
+
+2024 Graduate of the University of Colorado Boulder, Leeds School of Business of Business with a M.S. in Business Analytics specializing in Marketing Analytics.
+
+## Certificates 
+
+Google Analytics 
+Google Ads 
+
+## Contacts 
+
+LinkedIn: https://www.linkedin.com/in/margaret-paul/
+Email: margaret.paul@colorado.edu
