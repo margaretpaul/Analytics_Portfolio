@@ -6,9 +6,7 @@ Marketing analyst with expertise in data science and digital advertising.
 
 ## Portfolio Projects 
 
-Customer Segmentation & Marketing Campaign Analysis
-
-Code: 
+[Customer Segmentation & Marketing Campaign Analysis](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Customer_Segmentation_%26_Marketing_Campaign_Analysis.ipynb)
 
 Goal: 
 
