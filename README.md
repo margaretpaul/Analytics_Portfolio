@@ -6,6 +6,14 @@ Marketing analyst with expertise in data science and digital advertising.
 
 ## Portfolio Projects 
 
+[Ad Performance Analysis](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Ad_Performance_Analysis.ipynb)
+
+Goal: Analyze and optimize digital advertising performance by evaluating the impact of promotion type, match type, and device type on key performance metrics such as CTR, Conversion Rate, ROAS, and CPC.
+
+Skills: Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning & Feature Importance Analysis. 
+
+Technology: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (Random Forest)
+
 [Customer Segmentation & Marketing Campaign Analysis](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Customer_Segmentation_%26_Marketing_Campaign_Analysis.ipynb)
 
 Goal: The project aims to analyze customer segmentation and evaluate the effectiveness of marketing campaigns to derive actionable insights to improve targeted marketing strategies.
