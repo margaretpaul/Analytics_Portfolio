@@ -14,6 +14,14 @@ Skills: Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Data Visua
 
 Technology: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (Random Forest)
 
+[Brand Lift](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Brand_Lift.ipynb)
+
+Goal: This project analyzes the impact of a Google Brand Lift experiment to measure advertising effectiveness on YouTube by measuring the difference in positive response rates between the control and experiment groups, calculating relative and absolute lift to quantify the ad’s impact, and analyzing variations in response rates across age and gender demographics to identify the most responsive audience segments.
+
+Skills: A/B Testing & Experimentation, Statistical Analysis, Data Cleaning & Preprocessing
+
+Technology: Python, Pandas, NumPy
+
 [Customer Segmentation & Marketing Campaign Analysis](https://github.com/margaretpaul/Analytics_Portfolio/blob/main/Customer_Segmentation_%26_Marketing_Campaign_Analysis.ipynb)
 
 Goal: The project aims to analyze customer segmentation and evaluate the effectiveness of marketing campaigns to derive actionable insights to improve targeted marketing strategies.
